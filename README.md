@@ -1,7 +1,7 @@
 # **Speed Challenge AWS**
 _**Exercícios de montagem de diagramas e Serviços em nuvem utilizando a AWS.**_
 
-## Exercícios 09/20 - 8 exercícios ✔️
+## Exercícios 09/10 - 8 exercícios ✔️
 
 ### **Apresentação:** 
 _São slides explicando cada atividade._
