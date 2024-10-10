@@ -1,0 +1,62 @@
+Comandos do VS Code:
+
+salvar automaticamente: ir em "file" e abilitar o auto save
+settings: ctrl + virgula
+esconder sidebar: ctrl + b
+abrir arquivos rapidamente: ctrl + p e digitar o nome dos arquivos pra abrir
+abrir tela de erros via comando: ctrl + shift + m
+abrir uma nova janela de terminal: ctrl + shift e aspa
+ativar o modo zen do vs code: ctrl + k e depois z
+Edição de arquivo side by side: crtl + colchetes
+ir para um arquivo de projeto: ctrl + click no search
+fechar os arquivos rapido: ctrl + w
+navegação entre arquivos: ctrl + tab
+verificar todos os comandos: ctrl + shift + p
+reabrir um arquivo fechado recentemente:  ctrl + shift + t
+editando varias linhas: segura o alt e clica nas linhas que vc quer editar
+editando palavras iguais: ctrl + shift + L e clicar na palavra
+encontrando e editando ocorrências semelhantes: seleciona a paloavra e clica em ctrl + v
+abrir aba de extenções: ctrl + shift + x
+seleção de coluna: shift + alt e arrastar pra baixo 
+mover linha para cima e para baixo:
+expandindo a seleção: alt + pra baixo ou pra cima na linha em que o cursor está
+indo para linha específica: ctrl + G 
+voltando a posição do cursor: ctrl + U
+reconstruir uma ação: ctrl + Y
+removendo espaços em branco: ctrl + K + X
+indo para início e fim do arquivo: ctrl + end (fim) e ctrl + home (início)
+encontrar ocorrências da mesma palavra: duplo click na palavra e apertar ctrl + F 
+deletando palavras: ctrl + backspace (para trás) e ctrl + delete (para frente)
+selecionando uma palavra: ctrls + shift + seta pra esquerda ou direita
+pulando palavras: ctrl + seta pra direita ou esquerda
+deletando linha: ctrl + X
+exibindo sugestões: ctrl + espaço
+comentando código mais rápido: seleciona o codigo e aperta ctrl + :
+identando para frente e para trás: shift + tab (para trás) tab (para frente)
+fechar terminal: exit
+abrir outro terminal: ctrl + shift + aspas  mais de uma vez
+dividir tela para dois terminais ou mais: ctrl + shift + 5
+alternando entre terminais: alt + seta pra direita ou esquerda
+indo para o inicio ou fim do terminal: ctrl home (inicio) e ctrl + end (fim)
+buscando no terminal: ctrl + F
+minimizando terminal: ctrl + aspas
+abrindo links pelo terminal: ctrl + click
+abrindo terminal externo: ctrl + shift + C
+criando tags: emmet
+
+melhores extensões: 
+-Live Server
+-Bracket Pair Colorizer
+-Auto Rename Tags
+-CSS Peek
+-JavaScript (ES6) Code Snippets (corretor ortográfico:ctrl + .)
+-Icon Fonts
+-TODO Highlight
+-Bookmarks
+-open in browser
+-Better Alingh
+-Better Comments
+
+
+
+
